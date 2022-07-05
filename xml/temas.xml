@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<temas>
+    <tema
+    nome="squirtle"
+    titulo="#4682B4"
+    fundo="#87CEEB"
+    conteudo="#B0E0E6"/>
+
+    <tema
+    nome="bulbasaur"
+    titulo="#3CB371"
+    fundo="#66CDAA"
+    conteudo="#E0FFFF"/>
+
+    <tema
+    nome="charmander"
+    titulo="#FF8C00"
+    fundo="#F4A460"
+    conteudo="#F5DEB3"/>
+
+    <tema
+    nome="pikachu"
+    titulo="#CD853F"
+    fundo="#FFD700"
+    conteudo="#EEE8AA"/>
+
+    <tema
+    nome="jigglypuff"
+    titulo="#CD5C5C"
+    fundo="#FFC0CB"
+    conteudo="#FFE4E1"/>
+</temas>

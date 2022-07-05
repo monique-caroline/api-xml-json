@@ -1,0 +1,90 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.formulario{
+    height: fit-content;
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.inner-content-formulario{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#content{
+    display: flex;
+    height: 490px;
+}
+
+.img-card{
+    height: 300px;
+    width: 220px;
+    object-fit: cover;
+    border-radius: 10px 10px 0px 0px;
+    margin-top: 10px;
+
+}
+
+.card{
+    margin: 30px 30px;
+    width: 300px;
+    height: 460px;
+    border-radius: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.inner-content{
+    box-sizing: border-box;
+    border-radius:0px 0px 5px 5px;
+    width: 280px;
+    height: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    opacity: 0.6;
+}
+
+.title-card{
+    color:white;
+    align-content: center;
+    font-size: 30px;
+    margin: 0px;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.paragraph-card{
+    color:#615f5f;
+}
+
+.error{
+    background-color: red;
+    height: fit-content;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+input{
+    height: 30px;
+    width: 350px;
+    font-size: 20px;
+}
+
+label{
+    font-size: 30px;
+}
+
+button{
+    width: 100px;
+    height: 30px;
+
+    margin-left: 10px;
+}

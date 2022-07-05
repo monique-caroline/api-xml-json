@@ -1,0 +1,23 @@
+[
+    {
+        "imagem" : "stranger_things.jpg",
+        "nome" : "Stranger Things - Fourth Season",
+        "autor" : "Netflix",
+        "ano" : 2022,
+        "valor" : 19.99
+    },
+    {
+        "imagem" : "wanda_vision.jpg",
+        "nome" : "WandaVision - First Season",
+        "autor" : "Disney+",
+        "ano" : 2021,
+        "valor" : 19.99
+    },
+    {
+        "imagem" : "euphoria.jpg",
+        "nome" : "Euphoria - First Season",
+        "autor" : "HBO",
+        "ano" : 2019,
+        "valor" : 19.99
+    }
+]
